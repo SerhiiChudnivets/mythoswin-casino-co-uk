@@ -37,51 +37,55 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": "Legacy of Dead",
+          "Name": "Legacy of Dead",
+          "logo_alt": "Legacy of Dead"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/971cdbbaef550f5db9147c1294dd1f1c.webp",
+          "name": "Coin Volcano",
+          "Name": "Coin Volcano",
+          "logo_alt": "coin volcano"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead or Alive",
+          "Name": "Dead or Alive",
+          "logo_alt": "Dead or Alive"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/6a8cfb128b7a872406ab8ebdc5244c01.webp",
           "name": "VIP Cashback: up to 40% Daily",
           "Name": "VIP Cashback: up to 40% Daily"
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
           "name": "Wheel of Gods: Free Spin Every Day",
           "Name": "Wheel of Gods: Free Spin Every Day"
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
           "name": "Level-Up Rewards: up to £4,250 + 200 FS",
           "Name": "Level-Up Rewards: up to £4,250 + 200 FS"
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
           "name": "Jackpot: £850,000 Prize Pool",
           "Name": "Jackpot: £850,000 Prize Pool"
         }
@@ -113,58 +117,42 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is Mythoswin Casino licensed?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Yes. Mythoswin operates under licence ALSI-202509029-FI1 from Anjouan, and verification is required before withdrawals."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is there a Mythoswin Welcome Bonus?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "At registration you can enter a promo code or choose no bonus. The offer attached to the code is shown before you confirm; a fixed welcome package is not published on the public pages."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "How does the Mythoswin VIP Cashback work?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Daily cashback starts at 3% at Bronze 1 and rises to 40% at Obsidian. It is calculated on your net loss every day at 00:00 UTC."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "What is the Wheel of Gods?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "A daily mini-game with a free Zeus Wheel spin every 24 hours and an optional paid Hades Wheel with bigger prizes."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is Mythos Win the same casino as Mythoswin?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": ""
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": ""
+          "text": "Yes. The name is written both ways, but it is the same brand and the same site."
         }
       }
     ]
@@ -305,51 +293,55 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of Dead",
+      "Name": "Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/971cdbbaef550f5db9147c1294dd1f1c.webp",
+      "name": "Coin Volcano",
+      "Name": "Coin Volcano",
+      "logo_alt": "coin volcano"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/6a8cfb128b7a872406ab8ebdc5244c01.webp",
       "name": "VIP Cashback: up to 40% Daily",
       "Name": "VIP Cashback: up to 40% Daily"
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
       "name": "Wheel of Gods: Free Spin Every Day",
       "Name": "Wheel of Gods: Free Spin Every Day"
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
       "name": "Level-Up Rewards: up to £4,250 + 200 FS",
       "Name": "Level-Up Rewards: up to £4,250 + 200 FS"
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
       "name": "Jackpot: £850,000 Prize Pool",
       "Name": "Jackpot: £850,000 Prize Pool"
     }
@@ -357,36 +349,28 @@
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "",
-      "question": ""
+      "answer": "Yes. Mythoswin operates under licence ALSI-202509029-FI1 from Anjouan, and verification is required before withdrawals.",
+      "question": "Is Mythoswin Casino licensed?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "At registration you can enter a promo code or choose no bonus. The offer attached to the code is shown before you confirm; a fixed welcome package is not published on the public pages.",
+      "question": "Is there a Mythoswin Welcome Bonus?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Daily cashback starts at 3% at Bronze 1 and rises to 40% at Obsidian. It is calculated on your net loss every day at 00:00 UTC.",
+      "question": "How does the Mythoswin VIP Cashback work?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "A daily mini-game with a free Zeus Wheel spin every 24 hours and an optional paid Hades Wheel with bigger prizes.",
+      "question": "What is the Wheel of Gods?"
     },
     {
-      "answer": "",
-      "question": ""
-    },
-    {
-      "answer": "",
-      "question": ""
-    },
-    {
-      "answer": "",
-      "question": ""
+      "answer": "Yes. The name is written both ways, but it is the same brand and the same site.",
+      "question": "Is Mythos Win the same casino as Mythoswin?"
     }
   ],
-  "_generated_at": "2026-11-19T12:48:41.551Z",
+  "_generated_at": "2026-11-19T12:56:54.459Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T12:48:42.184Z",
-  "_deploy_trigger": "45irt6"
+  "_last_deploy": "2026-11-19T12:56:55.201Z",
+  "_deploy_trigger": "n4xt3b"
 }
