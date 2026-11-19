@@ -31,7 +31,7 @@
       "order": 0,
       "lang": "en-GB",
       "faqTitle": "Mythoswin Casino FAQ",
-      "popupText": "FREE WHEEL OF GODS SPIN EVERY DAY",
+      "popupText": "FREE DAILY SPIN",
       "popupLogo": "/uploads/mythoswin-logo1.webp",
       "sections": null,
       "slots": [
@@ -64,26 +64,26 @@
         {
           "link": "/play/",
           "logo": "",
-          "name": "",
-          "Name": ""
+          "name": "VIP Cashback: up to 40% Daily",
+          "Name": "VIP Cashback: up to 40% Daily"
         },
         {
           "link": "/play/",
           "logo": "",
-          "name": "",
-          "Name": ""
+          "name": "Wheel of Gods: Free Spin Every Day",
+          "Name": "Wheel of Gods: Free Spin Every Day"
         },
         {
           "link": "/play/",
           "logo": "",
-          "name": "",
-          "Name": ""
+          "name": "Level-Up Rewards: up to £4,250 + 200 FS",
+          "Name": "Level-Up Rewards: up to £4,250 + 200 FS"
         },
         {
           "link": "/play/",
           "logo": "",
-          "name": "",
-          "Name": ""
+          "name": "Jackpot: £850,000 Prize Pool",
+          "Name": "Jackpot: £850,000 Prize Pool"
         }
       ],
       "faq": [],
@@ -94,7 +94,7 @@
       "updatedAt": {},
       "globalSlotSet": null,
       "globalReviewSet": null,
-      "popup_text": "FREE WHEEL OF GODS SPIN EVERY DAY",
+      "popup_text": "FREE DAILY SPIN",
       "popup_logo": "/uploads/mythoswin-logo1.webp",
       "hero_title": "Mythoswin Casino UK – Play Where the Gods Reward You",
       "hero_subtitle": "JOIN THE GODS OF FORTUNE",
@@ -178,7 +178,7 @@
   "tagline": "UP TO 40% DAILY CASHBACK",
   "features_list": null,
   "footer_text": "© 2026. Mythoswin Casino. All rights reserved",
-  "popup_text": "FREE WHEEL OF GODS SPIN EVERY DAY",
+  "popup_text": "FREE DAILY SPIN",
   "faq_title": "Mythoswin Casino FAQ",
   "login_text": "Log in",
   "register_text": "Register",
@@ -332,26 +332,26 @@
     {
       "link": "/play/",
       "logo": "",
-      "name": "",
-      "Name": ""
+      "name": "VIP Cashback: up to 40% Daily",
+      "Name": "VIP Cashback: up to 40% Daily"
     },
     {
       "link": "/play/",
       "logo": "",
-      "name": "",
-      "Name": ""
+      "name": "Wheel of Gods: Free Spin Every Day",
+      "Name": "Wheel of Gods: Free Spin Every Day"
     },
     {
       "link": "/play/",
       "logo": "",
-      "name": "",
-      "Name": ""
+      "name": "Level-Up Rewards: up to £4,250 + 200 FS",
+      "Name": "Level-Up Rewards: up to £4,250 + 200 FS"
     },
     {
       "link": "/play/",
       "logo": "",
-      "name": "",
-      "Name": ""
+      "name": "Jackpot: £850,000 Prize Pool",
+      "Name": "Jackpot: £850,000 Prize Pool"
     }
   ],
   "Reviews": null,
@@ -385,8 +385,8 @@
       "question": ""
     }
   ],
-  "_generated_at": "2026-11-19T12:43:47.738Z",
+  "_generated_at": "2026-11-19T12:48:41.551Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T12:43:48.381Z",
-  "_deploy_trigger": "0m50n"
+  "_last_deploy": "2026-11-19T12:48:42.184Z",
+  "_deploy_trigger": "45irt6"
 }
