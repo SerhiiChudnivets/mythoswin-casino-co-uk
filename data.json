@@ -32,7 +32,7 @@
       "lang": "en-GB",
       "faqTitle": "Mythoswin Casino FAQ",
       "popupText": "FREE WHEEL OF GODS SPIN EVERY DAY",
-      "popupLogo": "/uploads/mythoswin-logo.webp",
+      "popupLogo": "/uploads/mythoswin-logo1.webp",
       "sections": null,
       "slots": [
         {
@@ -95,7 +95,7 @@
       "globalSlotSet": null,
       "globalReviewSet": null,
       "popup_text": "FREE WHEEL OF GODS SPIN EVERY DAY",
-      "popup_logo": "/uploads/mythoswin-logo.webp",
+      "popup_logo": "/uploads/mythoswin-logo1.webp",
       "hero_title": "Mythoswin Casino UK – Play Where the Gods Reward You",
       "hero_subtitle": "JOIN THE GODS OF FORTUNE",
       "hero_image": "/uploads/mythoswin-baner.webp",
@@ -198,10 +198,10 @@
   "color_main_btn_text": "#060B12",
   "cta_background": "#00CFEE",
   "logo": {
-    "url": "/uploads/mythoswin-logo.webp"
+    "url": "/uploads/mythoswin-logo1.webp"
   },
   "popup_logo": {
-    "url": "/uploads/mythoswin-logo.webp"
+    "url": "/uploads/mythoswin-logo1.webp"
   },
   "main_background_img": {
     "url": "/uploads/mythoswin-baner.webp"
@@ -385,8 +385,8 @@
       "question": ""
     }
   ],
-  "_generated_at": "2026-11-19T12:28:01.319Z",
+  "_generated_at": "2026-11-19T12:43:47.738Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T12:28:02.080Z",
-  "_deploy_trigger": "krra"
+  "_last_deploy": "2026-11-19T12:43:48.381Z",
+  "_deploy_trigger": "0m50n"
 }
