@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://daily-luck.uk/sitemap.xml
+Sitemap: https://mythoswin-casino.co.uk/sitemap.xml
