@@ -215,19 +215,19 @@
     },
     {
       "link": "/play/",
-      "label": "Prize Draws",
+      "label": "Wheel of Gods",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Payments",
+      "label": "Slots",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Games",
+      "label": "Live Casino",
       "submenu": [],
       "openInNewTab": false
     },
@@ -247,7 +247,13 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Cashback",
+      "label": "Promotions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sports",
       "submenu": [],
       "openInNewTab": false
     },
@@ -259,13 +265,7 @@
     },
     {
       "link": "/play/",
-      "label": "Mobile Play",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Responsible Gambling",
+      "label": "Responsible Gaming",
       "submenu": [],
       "openInNewTab": false
     }
@@ -385,8 +385,8 @@
       "question": ""
     }
   ],
-  "_generated_at": "2026-11-19T12:26:29.929Z",
+  "_generated_at": "2026-11-19T12:28:01.319Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T12:26:30.608Z",
-  "_deploy_trigger": "zjb6ja"
+  "_last_deploy": "2026-11-19T12:28:02.080Z",
+  "_deploy_trigger": "krra"
 }
